@@ -97,14 +97,9 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: 
-      author_profile: true
-  # Homepage
-  - scope:
-      path: ""
-      type: "pages"
-    values:
       layout: splash
+      author_profile: true
+
 
 category_archive:
   type: liquid
