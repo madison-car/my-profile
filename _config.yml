@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Madison's Portfolio
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: madison.m.carpenter1@gmail.com
+description: >-
+  Bioinformatician exploring Alzheimer's, ALS, and MS 🧠🔬, using multi-omics and modeling to uncover disease mechanisms.
 github_username: madison-car
 minimal_mistakes_skin: mint
 search: true
+
+# Site Masthead logo
+logo: "/assets/splash/coffee.jpeg"
 
 # Build settings
 markdown: kramdown
