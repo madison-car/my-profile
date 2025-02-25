@@ -99,6 +99,12 @@ defaults:
     values:
       layout: 
       author_profile: true
+  # Homepage
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: splash
 
 category_archive:
   type: liquid
